@@ -1,2 +1,2 @@
 # dnyabuto.github.io
-A place for showing off: public, group and personal projects I'm working on.
+github pages: A canvas for all things technical going on in my brain.
